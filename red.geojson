@@ -1,0 +1,343 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de nacimiento Adrián Vega Sánchez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.607945882093095,
+          43.52490287564783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de residencia Adrián Vega Sánchez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.663649997694741,
+          43.53745721646162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de nacimiento Ivan Valbuena Menendez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.608895339854011,
+          43.5260519066351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de residencia Ivan Valbuena Menendez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.704907733980023,
+          43.54001987970251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de nacimiento Jorge Málaga De Jong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.263438981298411,
+          52.05542751893124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de residencia Jorge Málaga De Jong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.689804215230091,
+          43.53666292540062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de nacimiento Diego García"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.604594708840849,
+          43.52468948983372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de residencia Diego García"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.669211824249627,
+          43.52914064869585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de nacimiento Mario Solar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.826767437609915,
+          43.375938646016145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de residencia Mario Solar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.667917658434702,
+          43.5283734729297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de nacimiento Marcos Alonso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.935643372570052,
+          43.55176542579462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de residencia Marcos Alonso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.806202448378604,
+          43.54541128448534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de nacimiento Dario Díaz Higuera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.939083558595636,
+          43.55235702501119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de residencia Dario Díaz Higuera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.631399179509373,
+          43.54621622153722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de nacimiento Ángel Malnero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.781052428918745,
+          43.22702890396562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de residencia Ángel Malnero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.702656085167726,
+          43.552026902990605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de nacimiento Guillermo Llera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.184984157158611,
+          43.38153626544303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de residencia Guillermo Llera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.668530339908545,
+          43.53064475909135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de nacimiento Fernando Alonso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.867582332199682,
+          43.35665895768564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de residencia Fernando Alonso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.831623726105406,
+          43.42867129406224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de nacimiento Joe Biden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65403757691384,
+          41.41302684849627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de residencia Joe Biden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03636886931733,
+          38.897559380650584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de nacimiento Donald Trump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.81654672328693,
+          40.70075201605041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de residencia Donald Trump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03684059445307,
+          26.677006422305485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de nacimiento Pablo Motos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.089644797817971,
+          39.48818844959094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lugar de residencia Pablo Motos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.688976305336254,
+          40.41926055042326
+        ]
+      }
+    }
+  ]
+}
